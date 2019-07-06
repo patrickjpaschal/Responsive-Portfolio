@@ -1,0 +1,40 @@
+body {
+    background:grey;
+    color:red;
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+
+
+}
+#masthead {
+background:rgb(26, 40, 230);
+text-align:center;
+color:black;
+font-style:none;
+font-display:
+display:block;
+}
+
+#a1 {
+    text-align: center;
+    height:40px;
+    bottom:20px;
+    background:teal
+
+
+
+}
+
+
+@media only screen and (max-width: 400px) {
+    body {
+      background-color: #F09A9D; 
+    }
+  }
+  
+ 
+  @media only screen and (min-width: 401px) and (max-width: 760px) {
+    body {
+      background-color: #F5CF8E; 
+    }
+  }
